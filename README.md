@@ -1,6 +1,4 @@
 <br>
-
-<br>
 <h1 align='center'><b>Animal Faces Recognition<br>Using CNN and ANN Neural Networks</b></h1>
 
 ---
